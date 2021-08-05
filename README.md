@@ -5,7 +5,7 @@
 - 👀 I’m interested in **Python, JAVA, AI and ML**
 - 💞️ I’m looking to collaborate on **anything that catches my fancy**
 
-- 📝 I regularly write articles on [https://codewithgc.blogspot.com/](https://codewithgc.blogspot.com/)
+- 📝 I regularly write articles on [https://gc-codes.netlify.app/](https://gc-codes.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
