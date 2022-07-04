@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Garima Choudhary</h1>
 <h3 align="center">A passionate developer who is trying to figure things out as she goes.</h3>
 
-- 🌱 I’m currently learning **Linux, Python and DS**
-- 👀 I’m interested in **Python, JAVA, AI and ML**
+- 🌱 I’m currently learning **Python and R**
+- 👀 I’m interested in **Python, R, AI and ML**
 - 💞️ I’m looking to collaborate on **anything that catches my fancy**
 
+<!---
 - 📝 I regularly write articles on [https://gc-codes.netlify.app/](https://gc-codes.netlify.app/)
+--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
