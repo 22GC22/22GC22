@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Choudhary</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on **Predicting Autism in Toddlers through ML**
+- 🔭 I’m currently working on **anything that catches my fancy**
 
 - 🌱 I’m currently learning **Data Engineering and Deep Learning**
 
